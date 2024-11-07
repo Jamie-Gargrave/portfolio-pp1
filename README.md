@@ -110,7 +110,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Known Bugs
 
-- 
+- I encountered an issue after deploying my page that can be found [here](https://github.com/Jamie-Gargrave/portfolio-pp1/issues/1). This was due to an issue with the file paths which has since been corrected by updating them accordingly.
+- I encountered validation issues that can be found [here](https://github.com/Jamie-Gargrave/portfolio-pp1/issues/2). I fixed this by applying the changes suggested, and changing the button ID to a class.
 
 ## Deployment
 
