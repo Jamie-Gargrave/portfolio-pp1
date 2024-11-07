@@ -64,7 +64,9 @@ This is my portfolio to showcase to potential employers, clients, and to keep tr
 4. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
 5. [Figma:](https://www.figma.com/)
-    - Figma has been used to complete my wireframes for Desktops /Tablets /Phones.
+    - Figma has been used to complete my wireframes for Desktops /Tablets /Phones. 
+6. Apple Playground (IOS Beta Feature)
+    -  Play ground was used to create an image of myself from a previous photo I took. 
 
 ## Testing
 
