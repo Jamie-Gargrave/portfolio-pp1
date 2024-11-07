@@ -95,6 +95,11 @@ a:hover {
     margin-bottom: 5px;
 } 
 
+em {
+    font-style: normal;
+    text-shadow: 10px 8px 8px rgba(255, 149, 11, 0.609);
+}
+
 #portfolio {
     color: white; 
     background-color: rgba(65, 65, 65, 0.539); 
