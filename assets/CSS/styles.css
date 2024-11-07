@@ -29,9 +29,7 @@ h3 {
     background-image: url(../images/hero-image.jpg);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover; 
-    height: auto;
-    width: auto;
+    background-size: cover;
 }
 header {
     width: auto; 
@@ -237,6 +235,25 @@ footer {
 }
 
 /* Misc Pages */
+
+#formsub {
+    text-align: center;
+    color: white;
+    background-color: rgba(65, 65, 65, 0.539); 
+    border: 1px solid rgba(245, 245, 245, 0.195); 
+    width: 50%;
+    display: block; 
+    margin: 20vh auto;
+    border-radius: 30px;
+}
+
+#formsub div {
+    padding: 25px;
+} 
+
+.formsub-cont h1 {
+    padding-bottom: 10px;
+}
 
 /* Responsive Design */
 
