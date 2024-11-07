@@ -52,4 +52,109 @@ a:hover {
 
 #me {
     color: white;
+    display: flex; 
+    justify-content: center;
+    padding-top: 10vh;
+    padding-bottom: 15vh;
+} 
+
+.jg-photo {
+    height: auto;
+    width: 25vh;
+    border-radius: 50%;
+    border: 3px solid whitesmoke;
+}
+
+.jg-text {
+    margin-top: 8vh;
+    margin-left: 20px;
+}
+
+.jg-text h2 {
+    margin-bottom: 5px;
+} 
+
+#portfolio {
+    color: white; 
+    background-color: rgba(65, 65, 65, 0.539); 
+    border-radius: 20px; 
+    margin: 0 20px;
+    padding-bottom: 20px;
+    border: 1px solid rgba(245, 245, 245, 0.195);
+}
+
+#portfolio > h2 {
+    margin: 20px 
+}
+
+#portfolio1 {
+    display: flex;
+    justify-content: center;
+    height: auto;
+    width: auto; 
+}
+
+#portfolio1 > div {
+    padding: 10px;
+    border-radius: 20px; 
+    background-color: rgba(65, 65, 65, 0.539); 
+    border: 1px solid rgba(245, 245, 245, 0.195); 
+    max-width: 350px;
+    text-align: center;
+    margin: 0 15px;
+}
+
+#portfolio1 img {
+    height: auto;
+    width: 300px;
+    border-radius: 30px;
+    border: 2px solid whitesmoke;
+}
+
+.port-content ul {
+    display: inherit;
+    list-style-position: inside; 
+    color: white;
+}
+
+.port-content li {
+    list-style: disc;
+}
+
+.port-content h2, h3 {
+    margin: 8px 0;
+}
+
+.port-content ul {
+    margin: 3px 0;
+}
+
+.port-content h3, ul {
+    text-align: left;
+}
+
+#button {
+    margin: 30px 0 15px 0;
+}
+
+#button a {
+    background-color: rgba(65, 65, 65, 0.837); 
+    border: 1px solid rgba(245, 245, 245, 0.195); 
+    padding: 10px;
+    border-radius: 10px;
+} 
+
+#button a:hover {
+    background-color: rgba(134, 134, 134, 0.479); 
+    border: 1px solid rgba(0, 0, 0, 0.713); 
+    color: rgba(0, 0, 0, 0.713);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+footer {
+    padding: 25px 0;
+    color: white; 
+    font-size: 12px;
+    text-align: center;
 }
