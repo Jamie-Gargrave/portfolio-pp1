@@ -42,9 +42,13 @@ This is my portfolio to showcase to potential employers, clients, and to keep tr
 
 ## Features
 
--   Responsive on all device sizes
+-   Responsive on all device sizes 
+
+-   When a smaller screen is detected, the text for the navigation menu will change to icons. 
 
 -   Header navigation will change to indicate the current page you're on (the text would underline/ change colour slightly).
+  
+-   Added a slight subtle effect to "Full-Stack" on the index page.
 
 ## Technologies Used
 
