@@ -267,7 +267,7 @@ label, input, textarea {
 } 
 
 input, textarea {
-    background-color: rgba(255, 255, 255, 0.844);
+    background-color: lightgrey;
     padding: 8px;
     border-radius: 10px;
     width: 100%;
@@ -314,6 +314,11 @@ span {
     #portfolio1 > div {
         margin-top: 20px;
     }
+
+    #formsub {
+        margin: 30vh auto;
+        width: 70%
+    }
 }
 
 @media (max-width: 768px) { 
@@ -326,6 +331,35 @@ span {
         width: 450px;
     } 
 
+    .contact-text {
+        margin: 0 10px;
+    }
+
+    #formsub {
+        margin: 28vh auto;
+        width: 80%
+    }
+
+} 
+
+@media (max-width: 626px) {
+    #contact-child {
+        padding: 0;
+    }
+
+    #contact-cont {
+        margin-bottom: 6vh;
+        margin: 0 10px;
+    } 
+
+    form {
+        padding: 10px;
+    }
+
+    #formsub {
+        margin: 28vh auto;
+        width: 90%
+    }
 }
 
 @media (max-width: 567px) { 
@@ -353,6 +387,10 @@ span {
 
     nav li {
         font-size: 22px;
+    }
+
+    #contact-cont {
+        margin-bottom: 6vh;
     }
 
 }
@@ -445,6 +483,10 @@ span {
 
     p, li {
         font-size: 13px;
+    }
+
+    label {
+        font-size: 15px; 
     }
 
 } 
