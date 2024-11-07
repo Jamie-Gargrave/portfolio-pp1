@@ -7,6 +7,16 @@
     font-family: 'Ubuntu', 'Open Sans';
 } 
 
+h2 {
+    font-size: 22px; 
+    font-weight: 500;
+}
+
+h3 {
+    font-size: 20px; 
+    font-weight: 400;
+}
+
 #bg-overlay {
     background-image: url(/assets/images/hero-image.jpg);
     background-position: center;
@@ -28,7 +38,13 @@ nav ul{
 
 nav li:first-child {
     margin-right: auto;
-    color: white;
+    color: white; 
+    font-size: 22px; 
+    font-weight: 500;
+}
+nav a {
+    font-size: 18px;
+    font-weight: 300;
 }
 
 ul {
@@ -84,7 +100,9 @@ a:hover {
 }
 
 #portfolio > h2 {
-    margin: 20px 
+    margin: 20px;
+    font-size: 22px; 
+    font-weight: 500;
 }
 
 #portfolio1 {
