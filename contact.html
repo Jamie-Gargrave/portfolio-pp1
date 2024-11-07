@@ -32,11 +32,21 @@
             </div>
         </section>
         <section id="contact-cont">
-            <p>Please fill out all fields with *</p>
             <div id="contact-child">
-                <h2>test</h2>
+                <p>Please fill out all fields with <span>*</span></p>
+                <form method="GET" action="formsubmission.html">
+                    <label for="fname">First Name<span>*</span></label>
+                    <input type="text" id="fname" name="fname" required>
+                    <label for="lname">Last Name<span>*</span></label>
+                    <input type="text" id="lname" name="lname" required>
+                    <label for="email">Email Address<span>*</span></label>
+                    <input type="email" id="email" name="email" required>
+                    <label for="textarea">Message<span>*</span></label>
+                    <textarea id="message" name="message" placeholder="I would like to hire you!"></textarea>
+                    <input id="submit" type="submit" value="Submit">
+                </form>
             </div>
-            </section>
+        </section>
         <footer>
             <p>All Rights Reserved, © Jamie Gargrave 2024</p>
         </footer>
