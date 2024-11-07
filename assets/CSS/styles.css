@@ -4,7 +4,7 @@
     margin: 0; 
     padding: 0; 
     box-sizing: border-box;
-    font-family: 'Ubuntu', 'Open Sans'; 
+    font-family: 'Ubuntu', 'Open Sans';
 } 
 
 #bg-overlay {
@@ -48,4 +48,8 @@ a {
 
 a:hover {
     color: rgb(138, 138, 138);
+}
+
+#me {
+    color: white;
 }
