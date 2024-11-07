@@ -12,42 +12,39 @@ This is my portfolio to showcase to potential employers, clients, and to keep tr
 
     -   #### Employer Visitor Goals
 
-        1. As an Employer Visitor, 
-        2. As an Employer Visitor, 
-        3. As an Employer Visitor, 
+        1. As an Employer Visitor, I want to be able to view previous projects.
+        2. As an Employer Visitor, I want to be able to get in contact with the developer easily.
+        3. As an Employer Visitor, I want to be able to see responsive design with their website. 
 
     -   #### Client Visitor Goals
 
-        1. As a Client Visitor, 
-        2. As a Client Visitor, 
-        3. As a Client Visitor, 
+        1. As a Client Visitor, I want to be able to see current and previous projects. 
+        2. As a Client Visitor, I want to be able to get in touch with the developer easily.
+        3. As a Client Visitor, I want to be able to view the website and encounter no issue(s).
 
     -   #### Frequent Visitor Goals
-        1. As a Frequent User, 
-        2. As a Frequent User, 
-        3. As a Frequent User,
+        1. As a Frequent User, I want to be able to view if there have been any new projects that have been worked on/ updates/ created.
+        2. As a Frequent User, I want the website to remain responsive once it has been updated with new projects.
 
 -   ### Design
     -   #### Colour Scheme
-        -   The two main colours used are Grey & white.
+        -   The two main colours used are Grey & White.
     -   #### Typography
-        -   The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
+        -   The Ubuntu font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. 
     -   #### Imagery
-        -   Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
+        -   Imagery is important. The large hero image has been chosen to attract the viewers attention and showcase my skills.
 
 *   ### Wireframes
 
-    -   Home Page Wireframe - [View](link)
+    -   Desktop/ PC Wireframes - [Desktop/PC Home Page Wireframe](/documentation/index-pc-figma.png) & [Desktop/PC Contact Page Wireframe](/documentation/contact-pc-figma.png).
 
-    -   Mobile Wireframe - [View](link)
-
-    -   Contact Us Page Wireframe - [View](link)
+    -   Tablet/ Mobile Wireframes - [Tablet/ Mobile Home Page Wireframe](/documentation/index-ph-figma.png) & [Tablet/ Mobile Contact Page Wireframe](/documentation/contact-ph-figma.png).
 
 ## Features
 
 -   Responsive on all device sizes
 
--   Interactive elements
+-   Header navigation will change to indicate the current page you're on (the text would underline/ change colour slightly).
 
 ## Technologies Used
 
@@ -66,8 +63,8 @@ This is my portfolio to showcase to potential employers, clients, and to keep tr
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 4. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
-5. [Figma:](link)
-    -  [wireframes](https://github.com/) .
+5. [Figma:](https://www.figma.com/)
+    - Figma has been used to complete my wireframes for Desktops /Tablets /Phones.
 
 ## Testing
 
@@ -78,31 +75,29 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Testing User Stories from User Experience (UX) Section
 
+
 -   #### Employer Visitor Goals
 
-        1. As an Employer Visitor, 
-           - 
-        2. As an Employer Visitor, 
-           - 
-        3. As an Employer Visitor, 
-           - 
+    1. As an Employer Visitor, I want to be able to view previous projects. 
+       -   When employers view the site, they'll be able to clearly see previous projects that have been worked on via the hompage.
+    2. As an Employer Visitor, I want to be able to get in contact with the developer easily.
+       -   When employers view the site, they'll be able to see the navigation links in the header and can then access the contact page, fill in the details and get in touch.
+    3. As an Employer Visitor, I want to be able to see responsive design with their website. 
+       -   When employers view the site, they'll be able to see all information clearly, the website would adjust it's design depending on the screen size to ensure it is responsive. 
 
-    -   #### Client Visitor Goals
+-   #### Client Visitor Goals
+    1. As a Client Visitor, I want to be able to see current and previous projects. 
+       -   When clients view the site, they'll be able to clearly see previous projects that have been worked on via the hompage.
+    2. As a Client Visitor, I want to be able to get in touch with the developer easily. 
+        -  When clients view the site, they'll be able to see the navigation links in the header and can then access the contact page, fill in the details and get in touch.
+    3. As a Client Visitor, I want to be able to view the website and encounter no issue(s). 
+       -   When clients view the site, they'll be able to see all information clearly, the website would adjust it's design depending on the screen size to ensure no issues are encountered. 
 
-        1. As a Client Visitor, 
-           - 
-        2. As a Client Visitor, 
-           - 
-        3. As a Client Visitor, 
-           - 
-
-    -   #### Frequent Visitor Goals
-        1. As a Frequent User, 
-           - 
-        2. As a Frequent User, 
-           - 
-        3. As a Frequent User,
-           - 
+-   #### Frequent Visitor Goals
+    1. As a Frequent User, I want to be able to view if there have been any new projects that have been worked on/ updates/ created.
+        -  Upon visiting the page, users would be able to clearly see any new projects that have been added as a banner will appear indicating it is new.
+    2. As a Frequent User, I want the website to remain responsive once it has been updated with new projects.
+        -  Upon visiting the page, they'll be able to see all information clearly, the website would adjust it's design depending on the screen size to ensure no issues are encountered. 
 
 ### Further Testing
 
@@ -126,19 +121,19 @@ The project was deployed to GitHub Pages using the following steps...
 3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
 4. Under "Source", click the dropdown called "None" and select "Master Branch".
 5. The page will automatically refresh.
-6. Scroll back down through the page to locate the now published site [link](link) in the "GitHub Pages" section.
+6. Scroll back down through the page to locate the now published site [link](GITHUB PAGE LINK NEEDED) in the "GitHub Pages" section.
 
 ### Forking the GitHub Repository
 
 By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
 
-1. Log in to GitHub and locate the [GitHub Repository](link)
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/Jamie-Gargrave/portfolio-pp1)
 2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
 3. You should now have a copy of the original repository in your GitHub account.
 
 ### Making a Local Clone
 
-1. Log in to GitHub and locate the [GitHub Repository](link)
+1. Log in to GitHub and locate the [GitHub Repository]([link](https://github.com/Jamie-Gargrave/portfolio-pp1))
 2. Under the repository name, click "Clone or download".
 3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
 4. Open Git Bash
@@ -146,13 +141,13 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 6. Type `git clone`, and then paste the URL you copied in Step 3.
 
 ```
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+$ git clone https://github.com/Jamie-Gargrave/portfolio-pp1
 ```
 
 7. Press Enter. Your local clone will be created.
 
 ```
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+$ git clone https://github.com/Jamie-Gargrave/portfolio-pp1
 > Cloning into `CI-Clone`...
 > remote: Counting objects: 10, done.
 > remote: Compressing objects: 100% (8/8), done.
@@ -166,11 +161,11 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Code
 
--   The full-screen hero image code came from this [Google Images](https://www.google.com/search?sca_esv=fa65bd0a363ad061&sxsrf=ADLYWIKx5E2MbwNDMOCfZ7bJHHBOAIXc5A:1730989617595&q=coding&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2jon2iao6KWCaVjfn7ahz_sf9q37Zv4dbJ4TW_6SnErfFZ77vWA-JewUZjVu3roP919JJ7LB0XgUlbeu3TIUlWj0Hp1JHzwq5YPaSgTTkAC-edWrnsX-_paLirvXRRRiouDZnf1O&sa=X&ved=2ahUKEwjLvJDqtsqJAxXKUUEAHeeOOz4QtKgLegQIIhAB&biw=1352&bih=979&dpr=2#vhid=8dD8iMWqqw5i_M&vssid=mosaic)
+-   The full-screen hero image code came from [Google Images](https://www.google.com/search?sca_esv=fa65bd0a363ad061&sxsrf=ADLYWIKx5E2MbwNDMOCfZ7bJHHBOAIXc5A:1730989617595&q=coding&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2jon2iao6KWCaVjfn7ahz_sf9q37Zv4dbJ4TW_6SnErfFZ77vWA-JewUZjVu3roP919JJ7LB0XgUlbeu3TIUlWj0Hp1JHzwq5YPaSgTTkAC-edWrnsX-_paLirvXRRRiouDZnf1O&sa=X&ved=2ahUKEwjLvJDqtsqJAxXKUUEAHeeOOz4QtKgLegQIIhAB&biw=1352&bih=979&dpr=2#vhid=8dD8iMWqqw5i_M&vssid=mosaic)
 
 ### Content
 
--   All content was written by the developer.
+-   All content was written by the developer. 
 
 ### Media
 
