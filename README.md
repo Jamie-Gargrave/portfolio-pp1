@@ -4,7 +4,7 @@
 
 This is my portfolio to showcase to potential employers, clients, and to keep track of my work that I have completed throughout the course and any future/ extra website development opportunities I have taken part in. 
 
-<h2 align="center"><img src="insert link"></h2>
+<h2 align="center"><img src="documentation/main-project-photo.png" alt="Jamie's Project Photo"></h2>
 
 ## User Experience (UX)
 
@@ -28,11 +28,11 @@ This is my portfolio to showcase to potential employers, clients, and to keep tr
 
 -   ### Design
     -   #### Colour Scheme
-        -   The two main colours used are Grey & White.
+        -   The three main colours used are Grey, Black & White.
     -   #### Typography
         -   The Ubuntu font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. 
     -   #### Imagery
-        -   Imagery is important. The large hero image has been chosen to attract the viewers attention and showcase my skills.
+        -   Imagery is important. The large hero image has been chosen to attract the viewers attention and the illustration of myself has been chosen to draw attention.
 
 *   ### Wireframes
 
@@ -66,7 +66,7 @@ This is my portfolio to showcase to potential employers, clients, and to keep tr
 5. [Figma:](https://www.figma.com/)
     - Figma has been used to complete my wireframes for Desktops /Tablets /Phones. 
 6. Apple Playground (IOS Beta Feature)
-    -  Playground was used to create an image of myself from a previous photo I took. 
+    -  Playground was used to create an illustration of myself from a previous photo I took. 
 
 ## Testing
 
