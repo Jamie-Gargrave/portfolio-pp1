@@ -1,6 +1,6 @@
 <h1 align="center">PP1 - Jamie's Portfolio</h1>
 
-[View the live project here.](inset link)
+[View the live project here.](https://jamie-gargrave.github.io/portfolio-pp1/)
 
 This is my portfolio to showcase to potential employers, clients, and to keep track of my work that I have completed throughout the course and any future/ extra website development opportunities I have taken part in. 
 
@@ -72,7 +72,7 @@ This is my portfolio to showcase to potential employers, clients, and to keep tr
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](link)
+-   [W3C HTML Validator](https://validator.w3.org/#validate_by_input) - [Results](link)
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](link)
 
 ### Testing User Stories from User Experience (UX) Section
