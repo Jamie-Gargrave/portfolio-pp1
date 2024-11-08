@@ -297,7 +297,7 @@ span {
 }
 
 #formsub div {
-    padding: 25px;
+    padding: 25px 25px 10px 25px;
 } 
 
 .formsub-cont h1 {
@@ -409,7 +409,11 @@ span {
 
     #contact-cont {
         margin-bottom: 6vh;
-    }
+    } 
+
+    #formsub div {
+        padding: 20px 20px 5px 20px;
+    } 
 
 }
 
