@@ -36,9 +36,15 @@ This is my portfolio to showcase to potential employers, clients, and to keep tr
 
 *   ### Wireframes
 
-    -   Desktop/ PC Wireframes - [Desktop/PC Home Page Wireframe](/documentation/index-pc-figma.png) & [Desktop/PC Contact Page Wireframe](/documentation/contact-pc-figma.png).
+- ### Desktop/ PC Wireframes:
 
-    -   Tablet/ Mobile Wireframes - [Tablet/ Mobile Home Page Wireframe](/documentation/index-ph-figma.png) & [Tablet/ Mobile Contact Page Wireframe](/documentation/contact-ph-figma.png).
+<img align="center" src="documentation/index-pc-figma.png" alt="Desktop/ PC Home Page Wireframe">
+<img align="center" src="documentation/contact-pc-figma.png" alt="Desktop/ PC Contact Page Wireframe">
+
+ - ### Tablet/ Mobile Wireframes:
+
+<img align="center" src="documentation/index-ph-figma.png" alt="Desktop/ PC Home Page Wireframe">
+<img align="center" src="documentation/contact-ph-figma.png" alt="Desktop/ PC Contact Page Wireframe">
 
 ## Features
 
@@ -86,8 +92,22 @@ This is my portfolio to showcase to potential employers, clients, and to keep tr
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C HTML Validator](https://validator.w3.org/#validate_by_input) - [Results](documentation/html-validation/)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](documentation/css-validation/)
+### [W3C HTML Validator](https://validator.w3.org/#validate_by_input) 
+
+#### Home Page Validation:
+<img align="center" src="documentation/html-validation/indexpagevalidation.png" alt="HTML Validation"> 
+
+#### Contact Page Validation:
+<img align="center" src="documentation/html-validation/contactpagevalidation.png" alt="HTML Validation">
+
+#### Form Submission Page Validation:
+<img align="center" src="documentation/html-validation/fromsubmissiontvalidation.png" alt="HTML Validation">
+
+
+### [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) 
+
+#### Home Page Validation:
+<img align="center" src="documentation/css-validation/cssvalidation.png" alt="CSS Validation"> 
 
 ### Testing User Stories from User Experience (UX) Section
 
@@ -193,3 +213,4 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 ### Acknowledgements
 
 -   Course Tutor support at EKC for their support.
+-   My mentor for feedback on the project.
