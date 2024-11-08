@@ -32,7 +32,7 @@ This is my portfolio to showcase to potential employers, clients, and to keep tr
     -   #### Typography
         -   The Ubuntu font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. 
     -   #### Imagery
-        -   Imagery is important. The large hero image has been chosen to attract the viewers attention and the illustration of myself has been chosen to draw attention.
+        -   Imagery is important. The large hero image has been chosen to attract the viewers attention as well as the illustration of myself.
 
 *   ### Wireframes
 
@@ -49,6 +49,8 @@ This is my portfolio to showcase to potential employers, clients, and to keep tr
 -   Header navigation will change to indicate the current page you're on (the text would underline/ change colour slightly).
   
 -   Added a slight subtle effect to "Full-Stack" on the index page.
+
+-   Created favicon images via the generate for the site to have an image in the tab view.
 
 ## Technologies Used
 
@@ -71,13 +73,21 @@ This is my portfolio to showcase to potential employers, clients, and to keep tr
     - Figma has been used to complete my wireframes for Desktops /Tablets /Phones. 
 6. Apple Playground (IOS Beta Feature)
     -  Playground was used to create an illustration of myself from a previous photo I took. 
+7. [Favicon](https://favicon.io/favicon-converter/)
+    -  Used to create the icon image on the website.
+8. [Canva](https://www.canva.com/) 
+    -  Used to create the icon to use with favicon. 
+9. [I Am Responsive](https://ui.dev/amiresponsive)
+    -  This was used to create the image at the top of the README.md file.
+10. [VS Code](https://code.visualstudio.com/)
+    -  Used to code the website.
 
 ## Testing
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C HTML Validator](https://validator.w3.org/#validate_by_input) - [Results](link)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](link)
+-   [W3C HTML Validator](https://validator.w3.org/#validate_by_input) - [Results](documentation/html-validation/)
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](documentation/css-validation/)
 
 ### Testing User Stories from User Experience (UX) Section
 
@@ -168,8 +178,8 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 ## Credits
 
 ### Code
-
--   The full-screen hero image code came from [Google Images](https://www.google.com/search?sca_esv=fa65bd0a363ad061&sxsrf=ADLYWIKx5E2MbwNDMOCfZ7bJHHBOAIXc5A:1730989617595&q=coding&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2jon2iao6KWCaVjfn7ahz_sf9q37Zv4dbJ4TW_6SnErfFZ77vWA-JewUZjVu3roP919JJ7LB0XgUlbeu3TIUlWj0Hp1JHzwq5YPaSgTTkAC-edWrnsX-_paLirvXRRRiouDZnf1O&sa=X&ved=2ahUKEwjLvJDqtsqJAxXKUUEAHeeOOz4QtKgLegQIIhAB&biw=1352&bih=979&dpr=2#vhid=8dD8iMWqqw5i_M&vssid=mosaic)
+  
+-  All code has been written by the developer.
 
 ### Content
 
@@ -177,7 +187,8 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Media
 
--   All Images were created by the developer, unless otherwise stated.
+-   All Images were created by the developer, with the exception of the hero image which can be found [here (Google Images)](https://www.google.com/search?sca_esv=fa65bd0a363ad061&sxsrf=ADLYWIKx5E2MbwNDMOCfZ7bJHHBOAIXc5A:1730989617595&q=coding&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2jon2iao6KWCaVjfn7ahz_sf9q37Zv4dbJ4TW_6SnErfFZ77vWA-JewUZjVu3roP919JJ7LB0XgUlbeu3TIUlWj0Hp1JHzwq5YPaSgTTkAC-edWrnsX-_paLirvXRRRiouDZnf1O&sa=X&ved=2ahUKEwjLvJDqtsqJAxXKUUEAHeeOOz4QtKgLegQIIhAB&biw=1352&bih=979&dpr=2#vhid=8dD8iMWqqw5i_M&vssid=mosaic). The illustration was created using Apple Playground, which is a apart of the IOS beta. 
+
 
 ### Acknowledgements
 
