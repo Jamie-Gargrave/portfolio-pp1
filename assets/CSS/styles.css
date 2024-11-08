@@ -77,6 +77,12 @@ a:hover {
     padding-bottom: 8px;
 } 
 
+#ignore {
+    color: white; 
+    font-size: 22px; 
+    font-weight: 500;
+}
+
 /* Home Page */
 
 #me {
@@ -397,6 +403,10 @@ span {
         font-size: 22px;
     }
 
+    #ignore {
+        font-size: 22px;
+    }
+
     #contact-cont {
         margin-bottom: 6vh;
     }
@@ -435,6 +445,10 @@ span {
     
     nav li {
         font-size: 18px;
+    } 
+
+    #ignore {
+        font-size: 18px;
     }
 
     h2 {
@@ -471,11 +485,11 @@ span {
 
     #portfolio > h2 {
         font-size: 15px;
-    }
-
-    nav li:first-child {
-        font-size: 15px; 
     } 
+
+    #ignore {
+        font-size: 15px;
+    }
 
     nav li {
         font-size: 15px;
