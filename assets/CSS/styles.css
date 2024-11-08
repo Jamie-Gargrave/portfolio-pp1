@@ -298,22 +298,25 @@ span {
     padding-bottom: 10px;
 }
 
-/* Responsive Design */
+/* Responsive Design */ 
 
-
-@media (max-width: 1280px) { 
+@media (max-width: 1593px) {
+    
+    #portfolio1 {
+        flex-wrap: wrap;
+    }
 
     #portfolio > h2 {
         margin: 20px 20px 0 20px;
     }
 
-    #portfolio1 {
-        flex-wrap: wrap; 
-    } 
-
     #portfolio1 > div {
         margin-top: 20px;
     }
+}
+
+
+@media (max-width: 1280px) { 
 
     #formsub {
         margin: 30vh auto;
