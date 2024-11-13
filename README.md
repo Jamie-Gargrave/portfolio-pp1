@@ -116,24 +116,32 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
     1. As an Employer Visitor, I want to be able to view previous projects. 
        -   When employers view the site, they'll be able to clearly see previous projects that have been worked on via the hompage.
+    <img align="center" src="documentation/prev-projects.png" alt="Projects">
     2. As an Employer Visitor, I want to be able to get in contact with the developer easily.
        -   When employers view the site, they'll be able to see the navigation links in the header and can then access the contact page, fill in the details and get in touch.
+    <img align="center" src="documentation/contact-me.png" alt="Contact Page">
     3. As an Employer Visitor, I want to be able to see responsive design with their website. 
        -   When employers view the site, they'll be able to see all information clearly, the website would adjust it's design depending on the screen size to ensure it is responsive. 
+    <img align="center" src="documentation/responsive-design.png" alt="Responsive Design">
 
 -   #### Client Visitor Goals
     1. As a Client Visitor, I want to be able to see current and previous projects. 
        -   When clients view the site, they'll be able to clearly see previous projects that have been worked on via the hompage.
+    <img align="center" src="documentation/prev-projects.png" alt="Projects">
     2. As a Client Visitor, I want to be able to get in touch with the developer easily. 
         -  When clients view the site, they'll be able to see the navigation links in the header and can then access the contact page, fill in the details and get in touch.
+    <img align="center" src="documentation/contact-me.png" alt="Contact Page">
     3. As a Client Visitor, I want to be able to view the website and encounter no issue(s). 
        -   When clients view the site, they'll be able to see all information clearly, the website would adjust it's design depending on the screen size to ensure no issues are encountered. 
+    <img align="center" src="documentation/responsive-design.png" alt="Responsive Design">
 
 -   #### Frequent Visitor Goals
     1. As a Frequent User, I want to be able to view if there have been any new projects that have been worked on/ updates/ created.
-        -  Upon visiting the page, users would be able to clearly see any new projects that have been added as a banner will appear indicating it is new.
+        -  Upon visiting the page, users would be able to clearly see any new projects that have been added.
+    <img align="center" src="documentation/prev-projects.png" alt="Projects">
     2. As a Frequent User, I want the website to remain responsive once it has been updated with new projects.
         -  Upon visiting the page, they'll be able to see all information clearly, the website would adjust it's design depending on the screen size to ensure no issues are encountered. 
+    <img align="center" src="documentation/responsive-design.png" alt="Responsive Design">
 
 ### Further Testing
 
